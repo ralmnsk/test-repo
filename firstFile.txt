@@ -2,8 +2,8 @@ line1 update
 line2 update
 line3 update2
 line4 update2
-line5
-line6
+line5 update in folder2
+line6 update in folder2
 line7
 line8
 line9
