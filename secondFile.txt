@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 1fix git1
 2fix git1
-=======
-1fix
-2fix
->>>>>>> git_2
 3
 4
 5
