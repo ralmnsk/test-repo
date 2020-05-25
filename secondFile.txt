@@ -1,5 +1,5 @@
-1fix git1
-2fix git1
+1 after stash
+2 after stash
 3
 4
 5
